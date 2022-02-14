@@ -1,4 +1,4 @@
-serving local files on localhost web server using python.py
+serving local files on localhost web server using python
 
 
 
