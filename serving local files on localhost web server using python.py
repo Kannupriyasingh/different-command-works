@@ -1,0 +1,8 @@
+serving local files on localhost web server using python.py
+
+
+
+open the terminal form the targated folder (here target folder in that folder on which we want to work on)
+
+>> python3 -m http.server 8000 
+Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
